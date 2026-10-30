@@ -1,0 +1,5 @@
+model,packages,hallucinated,rate,responses_with_fake_%
+nvidia/nemotron-3.5-lightning-30b-a3b,107,9,8.4,13.2
+nvidia/nemotron-3-ultra-550b-a55b,180,11,6.1,10.0
+meta/muse-glimmer-30b,119,6,5.0,9.4
+openai/gpt-oss-20b,153,4,2.6,5.2

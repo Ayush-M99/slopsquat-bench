@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+# Raw outputs contain the concrete hallucinated package names; kept private on purpose.
+results/responses.jsonl
+results/mentions.csv
+results/cross_model_fakes.csv
+results/registry_cache.json
+results/analysis_output.txt
+results/*.log

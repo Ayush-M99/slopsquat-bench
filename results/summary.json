@@ -1,0 +1,17 @@
+{
+  "responses": 315,
+  "responses_per_model": {
+    "nvidia/nemotron-3-ultra-550b-a55b": 80,
+    "nvidia/nemotron-3.5-lightning-30b-a3b": 75,
+    "openai/gpt-oss-20b": 80,
+    "meta/muse-glimmer-30b": 80
+  },
+  "excluded_low_coverage": {
+    "mistralai/mistral-large-4-1t-a52b": 24
+  },
+  "install_mentions": 559,
+  "unique_install_names": 234,
+  "unique_fake_names": 24,
+  "fake_names_suggested_by_2plus_models": 5,
+  "overall_install_hallucination_rate_%": 5.37
+}
